@@ -11,7 +11,7 @@ document.querySelector('#app').innerHTML = `
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img src="${javascriptLogo}" class="logo vanilla" alt="JavaScript logo" />
     </a>
-    <h1>Hello this is my first vite application being deployed to my aws instance!</h1>
+    <h1>Hello this is my first vite application being deployed to my aws instance2!</h1>
     <div class="card">
       <button id="counter" type="button"></button>
     </div>
